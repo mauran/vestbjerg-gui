@@ -91,7 +91,6 @@ public class CustomerGui {
 		scrollPane_1 = new JScrollPane();
 		scrollPane_1.setBounds(176, 16, 818, 433);
 		frame.getContentPane().add(scrollPane_1);
-
-		
+	
 	}
 }
